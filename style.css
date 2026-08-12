@@ -2,3 +2,5 @@ body { background-color: #000000; color: #ffffff; font-family: monospace; }
 h1 { color: #00ff00; text-align: center; font-size: 32px; }
 h2 { color: #00e5ff; border-bottom: 1px solid #00ff00; }
 .prueba1 { color: #00e5ff; text-transform: uppercase; }
+a { color: #00e5ff; text-decoration: none; }
+a:hover { color: #00ff00; text-decoration: underline; }
